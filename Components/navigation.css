@@ -1,0 +1,70 @@
+.nav_ber{
+}
+
+/* 1st part of nev ber */
+.s1stnev{
+    background-color: #F2EEEE;
+    padding-left: 3.7rem;
+    padding-right: 3.7rem;
+    width: 100%;
+}
+
+.leftsid_1stnav{
+    padding: 0.8rem;
+    color: black;
+}
+
+.leftsid_1stnav a{
+    color: black;
+}
+
+.leftsid_1stnav img{
+    width: 25px;
+}
+
+.cal_div{
+    margin-right: 1rem;
+}
+
+.rightsid{
+    padding: 0.8rem;
+    color: black;
+}
+
+.rightsid213{
+    width: 30%;
+    float: right;
+}
+
+.rightsid img {
+    width: 30px;
+    margin-right: 10%;
+}
+
+
+
+/* 2nd part of nev ber */
+
+.backgound{
+    background-color: #B6B6B6;
+}
+
+.logo{
+    width: 20%;
+}
+
+.navbar-brand img{
+    width: 80px;
+    height: 70px;
+    left: 70px;
+    top: 80px;
+}
+
+.witen_part{
+    left: 10px;
+    margin-left: 35%;
+} 
+
+.nav-item{
+    font-weight: 500;
+}

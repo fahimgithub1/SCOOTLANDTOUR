@@ -1,0 +1,27 @@
+.comment_section{
+    padding: 3rem 7rem;
+    margin-bottom: 2rem;
+}
+
+.comment_div{
+    text-align: left;
+    position: relative;
+}
+
+.comment_div img{
+    width: 80px;
+    position: absolute;
+}
+
+.per_commnet p{
+    padding-left: 100px;
+}
+
+.per_commnet{
+    margin-bottom: 3.5rem;
+}
+
+.inputbox{
+    height: 80px;
+    width: 100%;
+}

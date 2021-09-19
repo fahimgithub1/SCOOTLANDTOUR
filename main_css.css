@@ -1,0 +1,27 @@
+html{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+.primaryhadder{
+    font-size: 60px;
+    font-weight: bold;
+    
+}
+
+h2{
+
+}
+
+.tarhadding{
+    font-size: 60px;
+    font-weight: bold;
+}

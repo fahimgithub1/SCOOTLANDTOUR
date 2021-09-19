@@ -1,0 +1,41 @@
+.place_section{
+    background-color: #B6B6B6;
+    padding-top: 2rem;
+    padding-right: 5rem;
+    align-items: center;
+    text-align: center;
+    padding-left: 10rem;
+    margin-bottom: 2rem;
+    padding-bottom: 2.6rem;
+}
+
+.place_title{
+    background-color: #FFFDFD ;
+    width: 15%;
+    margin: auto;
+    margin-bottom: 2rem;
+}
+
+.after_titel_places{
+    width: 100%;
+}
+
+.Place_list{
+    background-color: #CFCACA;
+    font-size: 24px;
+    text-align: left;
+    padding-top: .7rem;
+}
+
+.after_titel_places a{
+    margin-left: 10rem;
+}
+
+.Gallary_box{
+
+}
+
+.Gallary_box img{
+    height: 100px;
+    margin-bottom: .3rem;
+}
