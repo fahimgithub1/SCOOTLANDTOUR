@@ -1,0 +1,22 @@
+.pacess-seccion{
+    margin-bottom: 3rem;
+}
+
+.pace-col{
+    margin-bottom: 1.3rem;
+    text-align: center;
+}
+
+.pace-col img{
+    height: 120px;
+}
+
+.place-mini{
+    padding: .5rem;
+    background-color: wheat;
+}
+
+.place-mini h6{
+    text-transform: uppercase;
+    font-weight: 300;
+}

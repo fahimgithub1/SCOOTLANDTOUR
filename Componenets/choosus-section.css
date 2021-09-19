@@ -1,0 +1,21 @@
+.choic_img{
+    margin: auto;
+    text-align: center;
+    margin-bottom: .5rem;
+}
+
+.choic_img img{
+    height: 100px;
+}
+
+.day_tite2{
+    font-size: 22px;
+    font-weight: 400;
+    text-align: center;
+    color: rgb(46, 31, 31);
+    margin-bottom: .6rem;
+}
+
+.choos-list p{
+    font-size: 18px;
+}

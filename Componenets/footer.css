@@ -1,0 +1,50 @@
+.map-section{
+    margin-bottom: 1rem;
+}
+
+footer{
+    padding-top: 2rem;
+    margin-top: 3rem;
+    background-color: rgb(107, 106, 106);
+}
+
+.logo1{
+    height: 100px;
+}
+
+.footer-div-1 img{ 
+    margin-bottom: 1rem;
+}
+
+.footer1{
+
+}
+
+
+.footer1 ul{
+    list-style: none;
+}
+
+.footer1 ul li{
+    float: left;
+}
+
+.footer1 ul li:not(:last-child){
+    margin-left: .6rem;
+}
+
+.footer1 img{
+   height: 40px; 
+}
+
+.oppps{
+    text-align: center;
+}
+
+
+/* last footer */
+.last-footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+}

@@ -1,0 +1,64 @@
+header{
+    padding-top: .8rem;
+    background-color: rgb(112, 89, 43);
+}
+
+/* Upper navigation */
+.Upper-nav{
+    font-size: 14px;
+}
+
+.Upper-nav_div1{
+    margin: auto;
+}
+
+.Upper-nav_div1 img{
+    height: 13px;
+    margin-right: 4px;
+}
+
+.Upper-nav_div1 a{
+    color: black;
+    text-decoration: none;
+}
+
+.Upper-nav_div1 a:hover{
+    text-decoration: none;
+}
+
+.Upper-nav_div1 a:not(:last-child){
+    margin-right: 1rem;
+}
+
+.Upper-nav_div2{
+    margin: auto;
+    text-align: center;
+}
+
+.Upper-nav_div2 ul{
+    list-style: none;
+    
+}
+
+.Upper-nav_div2 ul li{
+    float: right;
+}
+
+.Upper-nav_div2 img{
+    height: 20px;
+    border-radius: 10px;
+}
+
+.Upper-nav_div2-img{
+    margin-right: 1rem;
+}
+
+/* Lower navigation */
+.logo{
+    height: 80px;
+}
+
+.mav-menu{
+    float: right;
+    text-align: center;
+}

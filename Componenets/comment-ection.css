@@ -1,0 +1,41 @@
+.comment-section{
+    margin-bottom: 3rem;
+}
+
+.comment_div {
+    padding: 2rem;
+    background-color: rgb(221, 211, 211);
+    box-shadow: 3px black;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+}
+
+.title21{
+    font-size: 24px; 
+    font-weight: 700;   
+}
+
+.span2{
+    width: 80%;  
+}
+
+.per_commnet img{
+    height: 60px;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+
+.per_commnet img{
+    height: 60px;
+    border-radius: 10px;
+    padding-left: 2rem;
+}
+
+.galary{
+}
+
+.gallay-img{
+    width: 48%;
+    
+}

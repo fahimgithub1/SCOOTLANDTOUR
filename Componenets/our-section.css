@@ -1,0 +1,40 @@
+.our-service{
+    margin-top: 3rem;
+}
+
+.our-service_titel{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 36px;
+    color: rgb(54, 50, 42);
+    margin-bottom: .8rem;
+}
+
+.our-service_titel-span{
+    width: 100%;
+    height: 2.5px;
+    border: 1px solid green;
+    margin: auto;
+    background-color: green;
+    margin-bottom: 3rem;
+}
+
+.thirdheadding-ourservice{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 26px;
+    color: rgb(54, 50, 42);
+    margin-bottom: .8rem;
+}
+
+.our-service_paragr{
+    font-size: 16px;
+    margin-bottom: 2rem;
+}
+
+.video2{
+    width: 90%;
+    margin-bottom: 3rem;
+}
