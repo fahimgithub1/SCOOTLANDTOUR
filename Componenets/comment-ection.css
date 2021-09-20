@@ -21,17 +21,17 @@
 }
 
 .per_commnet img{
-    height: 60px;
-    border-radius: 10px;
-    margin-bottom: 1rem;
-}
-
-.per_commnet img{
-    height: 60px;
+    height: 40px;
     border-radius: 10px;
     padding-left: 2rem;
 }
 
+.per_commnet p{
+    margin-left: 21%;
+    font-size: 16px;
+}
+
+/* Glary css */
 .galary{
 }
 
