@@ -2,6 +2,7 @@
     top: -.5rem;
     height: 110vh;
     position: relative;
+    overflow: hidden;
 }
 
 .myVideo {
