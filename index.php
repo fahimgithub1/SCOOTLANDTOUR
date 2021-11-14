@@ -1,5 +1,6 @@
 <?php
-    include_once("index.html");
+        include_once("submit.html");
+//     include_once("index.html");
 
 //     $con = mysqli_connect('localhost', 'root', '','review');
     
