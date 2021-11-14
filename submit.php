@@ -1,5 +1,5 @@
 <?php
-    //include_once("manhtml.html");
+    include_once("index.html");
 
     $con = mysqli_connect('localhost', 'root', '','review');
     
